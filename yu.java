@@ -7,9 +7,12 @@ public class yu {
 		int d = a & b;
 		int e = a ^ b;
 		int f = ~a;
+		int g = 2;
+		int h = ~g;
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println(e);
 		System.out.println(f);
+		System.out.println(h);
 	}
 }
